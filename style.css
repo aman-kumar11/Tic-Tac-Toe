@@ -58,7 +58,7 @@ body{
 }
 .reset-btn:hover{
     transform: scale(1.15);
-    background-color:#da4167;
+    background-color:greenyellow;
     color:black;
     border: none;
 }
